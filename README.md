@@ -1,4 +1,4 @@
-# 🔐 JWT Authentication API with Node.js, Express & MongoDB
+# 🔐 RESTful API with JWT-Based User Authentication using Node.js and MongoDB
 
 This project demonstrates the implementation of **JWT-based authentication** in a **RESTful API** built with **Node.js**, **Express**, and **MongoDB**. The API allows users to register, log in, and access protected routes using secure token-based authentication.
 
